@@ -1,6 +1,4 @@
 # hello-world
-first program
 
 Hi guys!
-
 I wanna be a cool developer and be able to shoot a bow.
